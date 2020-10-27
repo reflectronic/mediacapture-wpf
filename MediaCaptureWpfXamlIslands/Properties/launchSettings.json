@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MediaCaptureWpfXamlIslands": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
